@@ -1,0 +1,160 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 0.5em 0 0.5em 0;
+    
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 200px;
+        order: 2;
+        img {
+            max-width: 100%;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: center;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
+}
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: -.5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+.badge2 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-top: 0em;
+    margin-left: 0em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+.news-container {
+  max-width: 100%; /* 容器宽度 */
+  height: 150px; /* 固定高度，超过这个高度的内容会滚动 */
+  border: 0px solid #ddd; /* 可选的边框 */
+  padding: 0em;
+  overflow-y: auto; /* 垂直滚动条 */
+  background-color: #ffffff; /* 可选的背景色 */
+  border-radius: 0px; /* 圆角边框 */
+  scrollbar-width: thin; /* 控制滚动条宽度（适用于 Firefox） */
+}
+
+.news-list {
+  list-style-type: none; /* 去掉列表项的默认样式 */
+  margin: 0;
+  padding: 0;
+}
+
+.news-list li {
+  margin-bottom: 0.5em; /* 列表项之间的间距 */
+}
+
+.news-container::-webkit-scrollbar {
+  width: 6px; /* 滚动条宽度 */
+}
+
+.news-container::-webkit-scrollbar-thumb {
+  background-color: #888; /* 滚动条的颜色 */
+  border-radius: 3px; /* 滚动条圆角 */
+}
+
+.news-container::-webkit-scrollbar-thumb:hover {
+  background-color: #555; /* 滚动条在鼠标悬停时的颜色 */
+}
+
+
+.content p {
+  text-align: justify; /* 两端对齐 */
+  line-height: 1.2; /* 增加行高，提升可读性 */
+  margin-bottom: 1em; /* 每段之间增加间距 */
+}

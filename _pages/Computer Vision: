@@ -1,0 +1,136 @@
+Computer Vision/
+
+1. Chen, Z., Wang, D., Fu, S., Wen, C., Lin, H., Chen, B. A2GP-SF: Enhancing Few-Shot Class Incremental Learning via Attribute Generative Prompting and Adaptive Sharpness Flattening. *ICASSP*, 2025. (TOP Conference)
+
+2. Liu, Y., Zhu, J., Wen, C., Lu, G., Lin, H., Chen, B. Towards Robust Visual Question Answering via Prompt-Driven Geometric Harmonization. *AAAI*, 2025. (TOP Conference)
+
+3. Huang, H., Yuan, S., Wen, C., Hao, Y., Fang, Y. Weakly Scene Segmentation Using Efficient Transformer. *IROS*, 2024. (Oral, TOP Conference)
+
+4. Huang, H., Yuan, S., Wen, C., Hao, Y., Fang, Y. Noisy Few-Shot 3D Point Cloud Scene Segmentation. *IEEE ICRA*, 2024. (TOP Conference)
+
+5. Huang, H., Yuan, S., Wen, C., Hao, Y., Fang, Y. 3D Hierarchical Transformer for Shape Correspondence Learning. *ICARA*, 2024.
+
+6. Huang, H., Wang, L., Li, X., Yuan, S., Wen, C., Hao, Y., Fang, Y. Learning to Learn Point Signature for 3D Shape Geometry. *Pattern Recognition Letters (PRL)*, 2024. (SCI, Q3, IF=3.9)
+
+7. Huang, H., Yuan, S., Peng, Z., Hao, Y., Wen, C., Fang, Y. A Single 3D Shape Wavelet-Based Generative Model. *Computers & Graphics (CG)*, 2024. (SCI, Q3, IF=2.5)
+
+8. Wen, C., Li, X., Huang, H., Hao, Y., Fang, Y. 3D Shape Contrastive Representation Learning with Adversarial Examples. *IEEE TMM*, 2023. (SCI, Q1, TOP Journal, IF=8.182)
+
+9. Yuan, S., Wen, C., Liu, Y.S., Fang, Y. Retrieval-Specific View Learning for Sketch-to-Shape Retrieval. *IEEE TMM*, 2023. (SCI, Q1, TOP Journal, IF=8.182)
+
+10. Li, X., Wen, C., Huang, H., Fang, Y. Unsupervised 3D Shape Representation Learning Using Normalizing Flow. *ACCV*, 2022. (TOP Conference)
+
+11. Li, X., Wen, C., Wang, L., Fang, Y. Topology Constrained Shape Correspondence. *IEEE TVCG*, 2020. (SCI, Q1, TOP Journal, IF=5.226)
+
+12. Xiang, S., Tseng, C., Wen, C., Desai, D., Kou, Y., Starly, B., Panozzo, D., Feng, C. Evaluating Deep Clustering Algorithms on Non-Categorical 3D CAD Models. *arXiv*, 2024.
+
+
+Robotics
+
+1. C. Wen, J. Liang, S. Yuan, H. Huang, Y. Fang. How Secure Are Large Language Models (LLMs) for Navigation in Urban Environments? Submitted to *International Journal of Computer Vision (IJCV)*, Under Review.
+
+2. X. Zhao*, C. Wen*, Y. Wang, H. Bai, W. Dou. TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather. Submitted to *IEEE Transactions on Image Processing (IEEE TIP)*, Under Review.
+
+3. C. Wen, Y. Liu, G.C.R. Bethala, Z. Peng, H. Lin, Y.S. Liu, Y. Fang. Enhancing Socially-Aware Robot Navigation through Bidirectional Natural Language Conversation. Submitted to *IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)*, Under Review.
+
+4. H. Liang, Y. Huang, G. Hao, G.C.R. Bethala, C. Wen, Y. Fang. Integrating Retrospective Framework in Multi-Robot Collaboration. *International Conference on Automation, Robotics, and Applications (ICARA)*, 2025.
+
+5. S. Yuan, Y. Hao, H. Huang, C. Wen, Y. Fang, A. Tzes. GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance. *NeurIPS*, 2024. (TOP Conference)
+
+6. C. Wen, Y. Huang, Y. Huang, W. Han, S. Yuan, Y. Liu, Y. Fang. Zero-shot Object Navigation using Vision-Language Models with Tree of Thoughts Reasoning. *ICPR*, 2024. (Oral, TOP Conference)
+
+7. S. Yuan, H. Unlu, H. Huang, C. Wen, A. Tzes, Y. Fang. Exploring the Reliability of Foundation Model-Based Frontier Selection in Zero-Shot Object Goal Navigation. *ICPR*, 2024. (TOP Conference)
+
+8. C. Wen, J. Liang, S. Yuan, H. Huang, Y. Hao, H. Lin, Y. Liu, Y. Fang. Goal-Driven Transformer for Robot Behavior Learning from Play Data. *ICPR*, 2024. (TOP Conference)
+
+9. H. Unlu, S. Yuan, C. Wen, H. Huang, A. Tzes, Y. Fang. Reliable Semantic Understanding for Real-World Zero-Shot Object Goal Navigation. *ICPR*, 2024. (TOP Conference)
+
+10. H. Huang, Y. Liu, S. Yuan, C. Wen, Y. Hao, Y. Fang. Optimizing Personalized Robot Actions with Ranking of Trajectories. *ICPR*, 2024. (TOP Conference)
+
+11. X. Zhao, C. Wen, S. Prakhya, H. Yin, R. Zhou, Y. Sun, J. Xu, H. Bai, Y. Wang. Multi-Modal Features and Accurate Place Recognition with Robust Optimization for Lidar-Visual-Inertial SLAM. *IEEE TIM*, 2024. (SCI, Q2, TOP Journal, IF=5.6)
+
+12. C. Wen, H. Huang, Y. Liu, Y. Fang. Pyramid Learnable Tokens for 3D LiDAR Place Recognition. *IEEE ICRA*, 2023. (TOP Conference)
+
+13. Y. Li*, C. Wen*, F. Xu, C. Feng. Fooling LiDAR Perception via Adversarial Trajectory Perturbation. *ICCV*, 2021. (Oral, <3% acceptance rate, TOP Conference)
+
+14. Y. Cheng, L. Peng, J. Wang, C. Wen, R. Chen. VLC and PDR Fusion Positioning by Incorporating High-Precision Indoor Map. *Journal of Geo-Information Science*, 2019.
+
+15. R. Chen, C. Wen, L. Peng, C. You. Improved A* Algorithm and Its Application in Indoor Robot Path Planning. *Journal of Computer Applications*, 2019.
+
+16. C. Wen, C. You, L. Peng, T. Wu, B. Song, B. Lv. Research on Indoor Visible Light Positioning System Based on SLAM Maps. *International Conference on Image and Video Processing, and Artificial Intelligence*, 2018.
+
+17. S. Li, L. Peng, L. Yu, H. Lin, T. Chi, C. Wen. Mobile Patrol System of Firefighting Facilities Based on BLE and RFID. *Fire Science And Technology*, 2017.
+
+18. S. Cui, L. Peng, S. Li, H. Lin, C. Wen. The Building of Integrated Inspection System of Indoor and Outdoor Fire Facilities. *Fire Science And Technology*, 2017.
+
+
+Remote Sensing 
+
+1. H. Lin, C. Zhang, D. Hong, K. Dong, C. Wen †. FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models. Submitted to *IEEE Geoscience and Remote Sensing Magazine (IEEE GRSM)*, Under Review.
+
+2. Y. Hu, J. Yuan, C. Wen, X. Lu, X. Li. RSGPT: A Remote Sensing Vision Language Model and Benchmark. Submitted to *ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS P&RS)*, Major Revision.
+
+3. H. Lin, D. Hong, S. Ge, C. Luo, K. Jiang, Y. Yang, H. Jin, C. Wen †. RS-MOE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering. Submitted to *IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)*, Major Revision.
+
+4. Lin, H., Li, N., Yao, P., Dong, K., Hong, D., Wen, C. † Generalization-Enhanced Few-Shot Object Detection in Remote Sensing. *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*, 2025. (SCI, Q1, TOP Journal, IF=8.4)
+
+5. Li, X.*, Wen, C.*, Hu, Y.*, Yuan, Z., Zhu, X. Vision-Language Models in Remote Sensing: Current Progress and Future Trends. *IEEE Geoscience and Remote Sensing Magazine (IEEE GRSM)*, 2024. (SCI, Q1, TOP Journal, IF=16.2)
+
+6. Tian, F., Wu, B., Zeng, H., Zhang, M., Hu, Y., Xie, Y., Wen, C., Wang, Z., Qin, X., Han, W., Yang, H. A Shape-Attention Pivot-Net for Identifying Central Pivot Irrigation Systems from Satellite Images Using a Cloud Computing Platform: An Application in the Contiguous US. *GIScience & Remote Sensing*, 2023. (SCI, Q2, IF=6.7)
+
+7. Li, X., Wen, C., Hu, Y., Zhou, N. RS-CLIP: Zero Shot Remote Sensing Scene Classification via Contrastive Vision-Language Supervision. *International Journal of Applied Earth Observation and Geoinformation (JAG)*, 2023. (SCI, Q1, TOP Journal, IF=7.5)
+
+8. Li, X., Wen, C., Wang, L., Fang, Y. Geometry-Aware Segmentation of Remote Sensing Images via Joint Height Estimation. *IEEE GRSL*, 2021. (SCI, Q2, IF=3.8)
+
+9. Wen, C., Li, X., Yao, X., Peng, L., Chi, T. Airborne LiDAR Point Cloud Classification with Global-Local Graph Attention Convolution Neural Network. *ISPRS P&RS*, 2021. (SCI, Q1, TOP Journal, IF=12.7)
+
+10. Li, X., Wang, L., Wang, M., Wen, C., Zhou, N., Fang, Y. Density-Aware Convolutional Networks with Context Encoding for Airborne LiDAR Point Cloud Classification. *ISPRS P&RS*, 2020. (SCI, Q1, TOP Journal, IF=12.7)
+
+11. Wen, C., Yang, L., Peng, L., Chi, T. Directionally Constrained Fully Convolutional Neural Network for Airborne LiDAR Point Cloud Classification. *ISPRS P&RS*, 2020. (SCI, Q1, TOP Journal, IF=12.7)
+
+12. Chen, R., Li, X., Hu, Y., Wen, C., Peng, L. Road Extraction from Remote Sensing Images in Wildland-Urban Interface Areas. *IEEE GRSL*, 2020. (SCI, Q2, IF=3.8)
+
+13. Liu, S., Wang, S., Chi, T., Wen, C., Wu, T., Wang, D. An Improved VDI–BSI Approach for Mapping Cropland Burned Area Using Combined Data from Landsat 8 Multispectral and Thermal Infrared Bands. *GIScience & Remote Sensing*, 2020. (SCI, Q2, IF=2.7)
+
+
+
+HealthCare
+
+7. Tian, Y.*, Wen, C.*, Shi, M., Afzal, M., Huang, H., Khan, O., Luo, Y., Fang, Y., Wang, M. **FairDomain: Achieving Fairness in Cross-Domain Medical Image Classification and Segmentation.** *ECCV*, 2024. (TOP Conference)
+
+M Shi*, MM Afzal*, H Huang*, C Wen*, Y Luo*, MO Khan, Y Tian, L Kim. Equitable deep learning
+for diabetic retinopathy detection using multi-dimensional retinal imaging with fair adaptive scaling: a
+retrospective study. Submitted to Science Advances, Under Review
+
+Y Luo*, M Khan*, C Wen*, M Afzal, T Wuermeling, M Shi, Y Tian, Y Fang, M Wang. FairDiffusion:
+Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation. Submitted to Science
+Advances, Major Revision
+
+Y Luo*, C Wen*, H Huang, M Li, M Shi, Y Fang, M Wang. Impact of Data Distribution on Fairness
+Guarantees in Equitable Deep Learning. Submitted to IEEE Transactions on Pattern Analysis and
+Machine Intelligence (IEEE TPAMI), Under Review
+
+
+16. Hao, Y., Magay, A., Huang, H., Yuan, S., Wen, C., Fang, Y. **A Wearable Platform Based on the Multi-modal Foundation Model to Augment Spatial Cognition for People with Blindness and Low Vision.** *IROS*, 2024. (Oral, TOP Conference)
+
+
+Geospatial Analysis
+
+5. Lin, H., Zhang, Y., Zhou, J., Wang, X., Jin, H., Wen, C. † **Earthquake Spatio-temporal Patterns around Precursory Thermal Infrared (TIR) Anomalies.** *Submitted to IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)*, 2024.
+
+13. Guo, S., Huang, Q., Wen, C. † **Analysis of the Spatial Heterogeneity of Commuting Flows in Beijing: Perspectives from Mobile Phone Data.** *Sensors and Materials*, 2024. (SCI, Q3, IF=1.2)
+
+19. Han, W., Wen, C. †, Zhao, H., Feng, C. **AutoEncoding Tree for City Layout Generation and Applications.** *ISPRS P&RS*, 2024. (SCI, Q1, TOP Journal, IF=12.7)
+
+20. Guo, Y., Zheng, H., Yang, Y., Sang, Y., Wen, C. **A Hydrogeomorphic Dataset for Characterizing Catchment Hydrological Behavior across the Tibetan Plateau.** *Earth System Science Data (ESSD)*, 2024. (SCI, Q1, TOP Journal, IF=11.4)
+
+39. Wen, C., Liu, S., Yao, X., Peng, L., Li, X. **A Novel Spatiotemporal Convolutional Long Short-Term Neural Network for Air Pollution Prediction.** *Science of The Total Environment*, 2019. (SCI, Q1, TOP Journal, IF=10.754, ESI Highly Cited Paper)
+
+43. Yao, X., Chen, L., Wen, C., Peng, L., Yang, L., Chi, T., Wang, X., Yu, W. **A Spatial Co-Location Mining Algorithm that Includes Adaptive Proximity Improvements and Distant Instance References.** *International Journal of Geographical Information Science*, 2018. (SCI, Q2, TOP GIS Journal, IF=3.5)
+
+44. Wen, C., Peng, L., Yang, L., Chi, T. **Topic Model Combined with the SVM for Small Scale Land Use Classification.** *Journal of Geo-Information Science*, 2018. 
+
+45. Guo, S., Wen, C., He, Y., Per, T. **Relationship between Travel Behavior and Income Level of Urban Residents: A Case Study in Shanghai Municipality.** *Progress In Geography*, 2017. 
+
+
+48. Li, X., Peng, L., Chi, T., Wen, C., Xu, Y. **Urban Environmental Pulsation Research Based on Wavelet Decomposition Enhanced ARMA Model.** *ICAEES 2015*, 2015.
