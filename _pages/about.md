@@ -317,7 +317,7 @@ Wenyu Han, **Congcong Wen†**, Lazarus Chok, Yan Liang Tan, Sheung Lung Chan, H
 
 <!-- <li><code class="language-plaintext highlighter-rouge">Science Advances (Major Revision)</code> <a href="#">FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.</a> Y. Luo*, M. Khan*, M. Afzal*, T. Wuermeling, M. Shi, Y. Tian, Y. Fang, <strong>C. Wen*</strong>, M. Wang. 🏥 HealthCare </li>  -->
 
-<li><code class="language-plaintext highlighter-rouge">ArXiv 2024</code> <a href="#">Impact of Data Distribution on Fairness Guarantees in Equitable Deep Learning.</a> Y. Luo*, M. Shi*, H. Huang, M. Li, Y. Fang, M. Wang, <strong>C. Wen*</strong>. 🏥 HealthCare </li> 
+<li><code class="language-plaintext highlighter-rouge">ArXiv 2024</code> <a href="#">Impact of Data Distribution on Fairness Guarantees in Equitable Deep Learning.</a> Y. Luo*, <strong>C. Wen*</strong>, M. Shi, H. Huang, M. Li, Y. Fang, M. Wang, . 🏥 HealthCare </li> 
 
 <!-- <li><code class="language-plaintext highlighter-rouge">IEEE TCSVT 2025</code> <a href="#">Generalization-Enhanced Few-Shot Object Detection in Remote Sensing.</a> H. Lin, N. Li, P. Yao, K. Dong, D. Hong, <strong>C. Wen*</strong>. 🛰️ Remote Sensing </li>  -->
 
