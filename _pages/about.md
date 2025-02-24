@@ -44,8 +44,9 @@ redirect_from:
 # 🔥 News
 <div class="news-container">
   <ul class="news-list">
-    <li>2024.01: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.</li>
-    <li>2024.01: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT.</li>
+    <li>2025.02: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.</li>
+    <li>2025.01: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.</li>
+    <li>2025.01: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT.</li>
     <li>2024.12: &nbsp;🎉🎉 One paper is accepted by ICASSP 2025.</li>
     <li>2024.12: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.</li>
     <li>2024.12: &nbsp;🎉🎉 One paper is accepted by IEEE GRSL.</li>
@@ -95,6 +96,26 @@ Shuaihang Yuan, Hao Huang, Yu Hao, **Congcong Wen**, Anthony Tzes, Yi Fang
 </div> </div>
 
 
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">IEEE TGRS 2025</div> <img src='images/RSMOE.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+[RS-MoE: A Vision-Language Model with Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering](https://arxiv.org/abs/2411.01595)
+Hui Lin, Danfeng Hong, Shuhang Ge, Chuyao Luo, Kai Jiang, Hao Jin, **Congcong Wen†**.
+
+<p><a href="https://github.com/CongcongWen1208/RS-MoE"><strong>Code</strong></a> </p>
+
+<p> 🛰️ Remote Sensing</p>
+
+</div> </div>
+
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">ArXiv 2025</div> <img src='images/FedRSClip.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+[FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models](https://arxiv.org/abs/2501.02461)
+
+Hui Lin, Chao Zhang, Danfeng Hong, Kexin Dong, **Congcong Wen†**
+
+<!-- <p><a href="https://github.com/lixiang-ucas/D-FCN"><strong>Code</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC">| Citations: 118</span></strong></p> -->
+
+<p> 🛰️ Remote Sensing</p>
+
+</div> </div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSM 2024</div><img src='images/RSVLM_GRSM.png' alt="sym" width="100%"></div></div>
@@ -122,26 +143,9 @@ Yuan Hu, Jianlong Yuan, **Congcong Wen**, Xiaonan Lu, Xiang Li
 
 </div> </div>
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">ArXiv 2025</div> <img src='images/RSMOE.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
-[RS-MoE: A Vision-Language Model with Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering](https://arxiv.org/abs/2411.01595)
-Hui Lin, Danfeng Hong, Shuhang Ge, Chuyao Luo, Kai Jiang, Hao Jin, **Congcong Wen†**.
 
-<p><a href="https://github.com/CongcongWen1208/RS-MoE"><strong>Code</strong></a> </p>
 
-<p> 🛰️ Remote Sensing</p>
 
-</div> </div>
-
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">ArXiv 2025</div> <img src='images/FedRSClip.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
-[FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models](https://arxiv.org/abs/2501.02461)
-
-Hui Lin, Chao Zhang, Danfeng Hong, Kexin Dong, **Congcong Wen†**
-
-<!-- <p><a href="https://github.com/lixiang-ucas/D-FCN"><strong>Code</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC">| Citations: 118</span></strong></p> -->
-
-<p> 🛰️ Remote Sensing</p>
-
-</div> </div>
 
 
 <li><code class="language-plaintext highlighter-rouge">ICARA 2025</code> <a href="#">Integrating Retrospective Framework in Multi-Robot Collaboration.</a> J. Liang, H. Huang, Y. Hao, G. Bethala, <strong>C. Wen,</strong>, J., Rizzo, Y. Fang. 🤖 Robotics </li>
