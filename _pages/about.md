@@ -44,7 +44,7 @@ redirect_from:
 # 🔥 News
 <div class="news-container">
   <ul class="news-list">
-    <li>2025.03: &nbsp;🎉🎉 One paper is accepted by Science Advances (Impact Factor: <strong style="color: red; font-weight: bold;">11.7</strong>, Accept Rate < 8.2%).</li>
+    <li>2025.03: &nbsp;🎉🎉 One paper is accepted by Science Advances (Impact Factor: <strong style="color: red; font-weight: bold;">11.7</strong>, Accept Rate < <strong style="color: red; font-weight: bold;">8.2%</strong>).</li>
     <li>2025.02: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.</li>
     <li>2025.01: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.</li>
     <li>2025.01: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT.</li>
@@ -358,7 +358,7 @@ Yan Luo\*, Muhammad Osama Khan\*, **Congcong Wen\***, Muhammad Muneeb Afzal, Tit
 
 <p> 🏥 HealthCare</p>
 
-</div>
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/FairDomain_ECCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -404,13 +404,9 @@ Xiongwei Zhao\*, **Congcong Wen\***, Yang Wang, Haojie Bai, Wenhao Dou
 
 
 
-</div>
-</div>
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/FLAT_ICCV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021 Oral</div><img src='images/FLAT_ICCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fooling LiDAR Perception via Adversarial Trajectory Perturbation.](https://arxiv.org/pdf/2103.15326.pdf)
