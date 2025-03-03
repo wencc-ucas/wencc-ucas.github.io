@@ -44,6 +44,7 @@ redirect_from:
 # 🔥 News
 <div class="news-container">
   <ul class="news-list">
+    <li>2025.03: &nbsp;🎉🎉 One paper is accepted by Science Advances.</li>
     <li>2025.02: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.</li>
     <li>2025.01: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.</li>
     <li>2025.01: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT.</li>
@@ -343,6 +344,38 @@ Wenyu Han, **Congcong Wen†**, Lazarus Chok, Yan Liang Tan, Sheung Lung Chan, H
 
 <h2> 🌍 Trustworthy AI </h2>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advances 2025</div><img src='images/FairDiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.](https://arxiv.org/abs/2412.20374)
+
+Yan Luo\*, Muhammad Osama Khan\*, **Congcong Wen\***, Muhammad Muneeb Afzal, Titus Fidelis Wuermeling, Min Shi, Yu Tian, Yi Fang, Mengyu Wang.
+
+<!-- <p><strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"> Citations: 415</span></strong></p> -->
+
+
+<p><a href="https://github.com/luoyan407/FairDiffusion"><strong>Code</strong></a>  <a href="https://drive.google.com/drive/folders/16VCgkvMdCM7UFRlhTlEa0oV2lxCho6Al?usp=sharing"><strong>Dataset</strong></a> </p>
+
+<p> 🏥 HealthCare</p>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/FairDomain_ECCV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fairdomain: Achieving fairness in cross-domain medical image segmentation and classification.](https://link.springer.com/chapter/10.1007/978-3-031-73116-7_15)
+
+Yu Tian\*, **Congcong Wen\***, Min Shi, Muhammad Muneeb Afzal, Hao Huang, Muhammad Osama Khan, Yan Luo, Yi Fang, Mengyu Wang.
+
+<!-- <p><strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"> Citations: 415</span></strong></p> -->
+
+<p><a href="https://github.com/Harvard-Ophthalmology-AI-Lab/FairDomain"><strong>Code</strong></a> <a href="https://drive.google.com/drive/folders/1huH93JVeXMj9rK6p1OZRub868vv0UK0O?usp=drive_link"><strong>Dataset</strong></a> </p>
+
+<p> 🏥 HealthCare</p>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/TripleMixer_Arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -369,38 +402,12 @@ Xiongwei Zhao\*, **Congcong Wen\***, Yang Wang, Haojie Bai, Wenhao Dou
 
 </div> </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/FairDiff.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.](https://arxiv.org/abs/2412.20374)
-
-Yan Luo\*, Muhammad Osama Khan\*, **Congcong Wen\***, Muhammad Muneeb Afzal, Titus Fidelis Wuermeling, Min Shi, Yu Tian, Yi Fang, Mengyu Wang.
-
-<!-- <p><strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"> Citations: 415</span></strong></p> -->
-
-
-<p><a href="https://github.com/luoyan407/FairDiffusion"><strong>Code</strong></a>  <a href="https://drive.google.com/drive/folders/16VCgkvMdCM7UFRlhTlEa0oV2lxCho6Al?usp=sharing"><strong>Dataset</strong></a> </p>
-
-<p> 🏥 HealthCare</p>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/FairDomain_ECCV.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Fairdomain: Achieving fairness in cross-domain medical image segmentation and classification.](https://link.springer.com/chapter/10.1007/978-3-031-73116-7_15)
-
-Yu Tian\*, **Congcong Wen\***, Min Shi, Muhammad Muneeb Afzal, Hao Huang, Muhammad Osama Khan, Yan Luo, Yi Fang, Mengyu Wang.
-
-<!-- <p><strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"> Citations: 415</span></strong></p> -->
-
-<p><a href="https://github.com/Harvard-Ophthalmology-AI-Lab/FairDomain"><strong>Code</strong></a> <a href="https://drive.google.com/drive/folders/1huH93JVeXMj9rK6p1OZRub868vv0UK0O?usp=drive_link"><strong>Dataset</strong></a> </p>
-
-<p> 🏥 HealthCare</p>
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/FLAT_ICCV.png' alt="sym" width="100%"></div></div>
