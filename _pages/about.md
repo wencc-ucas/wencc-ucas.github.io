@@ -20,7 +20,7 @@ redirect_from:
 <div class="content">
 <p>
   I am currently a Postdoctoral Associate at the 
-  <a href="https://nyuair.github.io/website/">NYU Embodied AI and Robotics Lab</a> and the 
+  <a href="https://nyuair.github.io/website/">NYU Embodied AI and Robotics Lab</a> at New York University (NYU) and the 
   <a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html">
     Center for AI and Robotics (CAIR)
   </a> at NYU Abu Dhabi (NYUAD), working under the supervision of <a href="https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/yi-fang.html"> Prof. Yi Fang</a>. 
@@ -44,6 +44,8 @@ redirect_from:
 # 🔥 News
 <div class="news-container">
   <ul class="news-list">
+    <li>2025.04: &nbsp;🎉🎉 One paper is accepted by ISPRS P&RS (Impact Factor: <strong style="color: red; font-weight: bold;">10.6</strong>).</li>
+    <li>2025.03: &nbsp;🎉🎉 One paper is accepted by IEEE GRSM (Impact Factor: <strong style="color: red; font-weight: bold;">16.2</strong>).</li>
     <li>2025.03: &nbsp;🎉🎉 One paper is accepted by Science Advances (Impact Factor: <strong style="color: red; font-weight: bold;">11.7</strong>, Accept Rate < <strong style="color: red; font-weight: bold;">8.2%</strong>).</li>
     <li>2025.02: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.</li>
     <li>2025.01: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.</li>
@@ -107,7 +109,7 @@ Hui Lin, Danfeng Hong, Shuhang Ge, Chuyao Luo, Kai Jiang, Hao Jin, **Congcong We
 
 </div> </div>
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">ArXiv 2025</div> <img src='images/FedRSClip.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">IEEE GRSM 2025</div> <img src='images/FedRSClip.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 [FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models](https://arxiv.org/abs/2501.02461)
 
 Hui Lin, Chao Zhang, Danfeng Hong, Kexin Dong, **Congcong Wen†**
@@ -126,19 +128,19 @@ Hui Lin, Chao Zhang, Danfeng Hong, Kexin Dong, **Congcong Wen†**
 
 Xiang Li\*, **Congcong Wen\***, Yuan Hu\*, Zhenghang Yuan, Xiao Xiang Zhu.
 
-<p><strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"> Citations: 63</span></strong></p>
+<p><strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"> Citations: 92</span></strong></p>
 
 <p> 🛰️ Remote Sensing</p>
 
 </div>
 </div>
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">ArXiv 2023</div> <img src='images/RSGPT_ArXiv.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">ISPRS 2025</div> <img src='images/RSGPT_ArXiv.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 [RSGPT: A Remote Sensing Vision Language Model and Benchmark](https://arxiv.org/abs/2307.15266)
 
 Yuan Hu, Jianlong Yuan, **Congcong Wen**, Xiaonan Lu, Xiang Li
 
-<p><a href="https://github.com/Lavender105/RSGPT"><strong>Code</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC">| Citations: 89</span></strong></p>
+<p><a href="https://github.com/Lavender105/RSGPT"><strong>Code</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC">| Citations: 126</span></strong></p>
 
 <p> 🛰️ Remote Sensing</p>
 
