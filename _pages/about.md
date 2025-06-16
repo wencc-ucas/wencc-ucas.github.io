@@ -44,6 +44,7 @@ redirect_from:
 # 🔥 News
 <div class="news-container">
   <ul class="news-list">
+    <li>2025.06: &nbsp;🎉🎉 Two papers are accepted by IROS 2025.</li>
     <li>2025.04: &nbsp;🎉🎉 One paper is accepted by ISPRS P&RS (Impact Factor: <strong style="color: red; font-weight: bold;">10.6</strong>).</li>
     <li>2025.03: &nbsp;🎉🎉 One paper is accepted by IEEE GRSM (Impact Factor: <strong style="color: red; font-weight: bold;">16.2</strong>).</li>
     <li>2025.03: &nbsp;🎉🎉 One paper is accepted by Science Advances (Impact Factor: <strong style="color: red; font-weight: bold;">11.7</strong>, Accept Rate < <strong style="color: red; font-weight: bold;">8.2%</strong>).</li>
@@ -55,7 +56,7 @@ redirect_from:
     <li>2024.12: &nbsp;🎉🎉 One paper is accepted by IEEE GRSL.</li>
     <li>2024.09: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.</li>
     <li>2024.08: &nbsp;🎉🎉 Five papers are accepted by ICPR 2024, including one Oral.</li>
-    <li>2024.06: &nbsp;🎉🎉 Two Oral papers are accepted by IROS 2024.</li>
+    <li>2024.06: &nbsp;🎉🎉 Two papers are accepted by IROS 2024.</li>
     <li>2024.06: &nbsp;🎉🎉 I serve as Session Co-Chair for ICRA 2024.</li>
     <li>2024.03: &nbsp;🎉🎉 One paper is accepted by IEEE GRSM (Impact Factor: <strong style="color: red; font-weight: bold;">16.2</strong>).</li>
     <li>2024.02: &nbsp;🎉🎉 One paper is accepted by ESSD (Impact Factor: <strong style="color: red; font-weight: bold;">11.2</strong>).</li>
