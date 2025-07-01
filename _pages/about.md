@@ -44,6 +44,8 @@ redirect_from:
 # 🔥 News
 <div class="news-container">
   <ul class="news-list">
+    <li>2025.07: &nbsp;🎉🎉 I will serve as an area chair for WACV 2025.</li>
+    <li>2025.06: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.</li>
     <li>2025.06: &nbsp;🎉🎉 Two papers are accepted by IROS 2025.</li>
     <li>2025.04: &nbsp;🎉🎉 One paper is accepted by ISPRS P&RS (Impact Factor: <strong style="color: red; font-weight: bold;">10.6</strong>).</li>
     <li>2025.03: &nbsp;🎉🎉 One paper is accepted by IEEE GRSM (Impact Factor: <strong style="color: red; font-weight: bold;">16.2</strong>).</li>
@@ -88,7 +90,7 @@ Shuaihang Yuan, Hao Huang, Yu Hao, **Congcong Wen**, Anthony Tzes, Yi Fang
 
 
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">ArXiv 2024</div> <img src='images/HSACLLM.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">IROS 2025</div> <img src='images/HSACLLM.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 [Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models](https://arxiv.org/abs/2409.04965)
 
 **Congcong Wen**, Yifan Liu, Geeta Chandra Raju Bethala, Hui Lin, Mengyu Wang, Yu-Shen Liu, Anthony Tzes, and Yi Fang
