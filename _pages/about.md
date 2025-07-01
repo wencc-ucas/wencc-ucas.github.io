@@ -44,7 +44,7 @@ redirect_from:
 # 🔥 News
 <div class="news-container">
   <ul class="news-list">
-    <li>2025.07: &nbsp;🎉🎉 I will serve as an area chair for WACV 2025.</li>
+    <li>2025.07: &nbsp;🎉🎉 I will serve as an area chair for WACV 2026.</li>
     <li>2025.06: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.</li>
     <li>2025.06: &nbsp;🎉🎉 Two papers are accepted by IROS 2025.</li>
     <li>2025.04: &nbsp;🎉🎉 One paper is accepted by ISPRS P&RS (Impact Factor: <strong style="color: red; font-weight: bold;">10.6</strong>).</li>
