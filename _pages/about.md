@@ -44,6 +44,7 @@ redirect_from:
 # 🔥 News
 <div class="news-container">
   <ul class="news-list">
+<<<<<<< HEAD
     <li>2025.07: &nbsp;🎉🎉 I will serve as an area chair for WACV 2026.</li>
     <li>2025.06: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.</li>
     <li>2025.06: &nbsp;🎉🎉 Two papers are accepted by IROS 2025.</li>
@@ -51,6 +52,17 @@ redirect_from:
     <li>2025.03: &nbsp;🎉🎉 One paper is accepted by IEEE GRSM (Impact Factor: <strong style="color: red; font-weight: bold;">16.2</strong>).</li>
     <li>2025.03: &nbsp;🎉🎉 One paper is accepted by Science Advances (Impact Factor: <strong style="color: red; font-weight: bold;">11.7</strong>, Accept Rate < <strong style="color: red; font-weight: bold;">8.2%</strong>).</li>
     <li>2025.02: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.</li>
+=======
+    <li>2025.07: &nbsp;🎉🎉 One paper is accepted by Earth-Science Reviews (Impact Factor: <strong style="color: red; font-weight: bold;">10.0</strong>).</li>
+    <li>2025.07: &nbsp;🎉🎉 One paper is accepted by Humanoids.</li>
+    <li>2025.07: &nbsp;🎉🎉 I will serve as an area chair for WACV 2026.</li>
+    <li>2025.06: &nbsp;🎉🎉 One paper (Wavelet Policy) is accepted by ICCV 2025.</li>
+    <li>2025.06: &nbsp;🎉🎉 Two paper are accepted by IROS 2025.</li>
+    <li>2025.04: &nbsp;🎉🎉 One paper (RSGPT) is accepted by ISPRS P&RS (Impact Factor: <strong style="color: red; font-weight: bold;">10.6</strong>).</li>
+    <li>2025.03: &nbsp;🎉🎉 One paper (FedRSCLIP) is accepted by IEEE GRSM (Impact Factor: <strong style="color: red; font-weight: bold;">16.2</strong>).</li>
+    <li>2025.03: &nbsp;🎉🎉 One paper (FairDiffusion) is accepted by Science Advances (Impact Factor: <strong style="color: red; font-weight: bold;">11.7</strong>, Accept Rate < <strong style="color: red; font-weight: bold;">8.2%</strong>).</li>
+    <li>2025.02: &nbsp;🎉🎉 One paper (RS-MOE) is accepted by IEEE TGRS.</li>
+>>>>>>> 1834ef5 (update)
     <li>2025.01: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.</li>
     <li>2025.01: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT.</li>
     <li>2024.12: &nbsp;🎉🎉 One paper is accepted by ICASSP 2025.</li>
