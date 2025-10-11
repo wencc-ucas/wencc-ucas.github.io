@@ -44,7 +44,8 @@ redirect_from:
 # 🔥 News
 <div class="news-container">
   <ul class="news-list">
-    <li>2025.09: &nbsp;🎉🎉 I will serve as a Session Co-Chair for IROS 2025. </li>
+    <li>2025.10: &nbsp;🎉🎉 One paper is accepted by IEEE TMI (Impact Factor: <strong style="color: red; font-weight: bold;">9.8</strong>). </li>
+    <li>2025.09: &nbsp;🎉🎉 I will serve as a Session Chair and Co-Chair for IROS 2025. </li>
     <li>2025.09: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025. </li>
     <li>2025.09: &nbsp;🎉🎉 One paper is accepted by IEEE TIP (Impact Factor: <strong style="color: red; font-weight: bold;">13.7</strong>). </li>
     <li>2025.08: &nbsp;🎉🎉 I will serve as a <strong style="color: red; font-weight: bold;">Track Chair (Senior Meta-Reviewer)</strong> for ICPR 2026. </li>
@@ -523,6 +524,9 @@ Xiaojing Yao, Liujia Chen, **Congcong Wen**, Ling Peng, Liang Yang, Tianhe Chi, 
   </ul>
   <h3>Conference:</h3>
   <ul>
+    <li>Track Chair (Senior Area Chair) , International Conference on Pattern Recognition (ICPR) 2026</li>
+    <li>Area Chair, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</li>
+    <li>Session Chair and Session Co-Chair, IEEE/RSJ International Conference on Intelligent Robots and System (IROS) 2025</li>
     <li>Session Co-Chair, IEEE International Conference on Robotics and Automation (ICRA) 2024</li>
     <li>Program Committee Member, Association for the Advancement of Artificial Intelligence (AAAI), 2025</li>
  </ul>
