@@ -44,10 +44,13 @@ redirect_from:
 # 🔥 News
 <div class="news-container">
   <ul class="news-list">
+    <li>2026.02: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI (Impact Factor: <strong style="color: red; font-weight: bold;">18.6</strong>). </li>
+    <li>2026.02: &nbsp;🎉🎉 One paper is accepted by IEEE Robotics and Automation Letters (RA-L). </li>
+    <li>2025.12: &nbsp;🎉🎉 One paper (RSRAG) is accepted by IEEE GRSM (Impact Factor: <strong style="color: red; font-weight: bold;">16.2</strong>).</li>
+    <li>2025.10: &nbsp;🎉🎉 One paper is accepted by IEEE TIP (Impact Factor: <strong style="color: red; font-weight: bold;">13.7</strong>). </li>
     <li>2025.10: &nbsp;🎉🎉 One paper is accepted by IEEE TMI (Impact Factor: <strong style="color: red; font-weight: bold;">9.8</strong>). </li>
     <li>2025.09: &nbsp;🎉🎉 I will serve as a Session Chair and Co-Chair for IROS 2025. </li>
     <li>2025.09: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025. </li>
-    <li>2025.09: &nbsp;🎉🎉 One paper is accepted by IEEE TIP (Impact Factor: <strong style="color: red; font-weight: bold;">13.7</strong>). </li>
     <li>2025.08: &nbsp;🎉🎉 I will serve as a <strong style="color: red; font-weight: bold;">Track Chair (Senior Meta-Reviewer)</strong> for ICPR 2026. </li>
     <li>2025.07: &nbsp;🎉🎉 One paper is accepted by Earth-Science Reviews (Impact Factor: <strong style="color: red; font-weight: bold;">10.0</strong>).</li>
     <li>2025.07: &nbsp;🎉🎉 One paper is accepted by Humanoids.</li>
@@ -521,6 +524,7 @@ Xiaojing Yao, Liujia Chen, **Congcong Wen**, Ling Peng, Liang Yang, Tianhe Chi, 
   <ul>
     <li>Associate Editor, GIScience</li>
     <li>Guest Editor, Journal of Environmental &amp; Earth Sciences</li>
+    <li>Guest Editor, Remote Sensing</li>
   </ul>
   <h3>Conference:</h3>
   <ul>
