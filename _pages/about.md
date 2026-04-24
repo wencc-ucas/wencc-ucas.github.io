@@ -44,6 +44,7 @@ redirect_from:
 # 🔥 News
 <div class="news-container">
   <ul class="news-list">
+    <li>2026.04: &nbsp;🎉🎉 One paper is accepted by Nature (Impact Factor: <strong style="color: red; font-weight: bold;">48.5</strong>). </li>
     <li>2026.02: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI (Impact Factor: <strong style="color: red; font-weight: bold;">18.6</strong>). </li>
     <li>2026.02: &nbsp;🎉🎉 One paper is accepted by IEEE Robotics and Automation Letters (RA-L). </li>
     <li>2025.12: &nbsp;🎉🎉 One paper (RSRAG) is accepted by IEEE GRSM (Impact Factor: <strong style="color: red; font-weight: bold;">16.2</strong>).</li>
